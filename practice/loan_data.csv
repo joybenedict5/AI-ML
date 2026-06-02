@@ -1,0 +1,9 @@
+name,income,loan_amount,credit_score,employment,loan_to_income_ratio,risk_level
+Mahesh,90000,500000,920,Employed,5.56,Low Risk
+Priya,25000,200000,580,Self-Employed,8.0,High Risk
+John,55000,100000,700,Employed,1.82,Medium Risk
+Sara,120000,800000,810,Employed,6.67,Low Risk
+Ravi,40000,150000,640,Self-Employed,3.75,High Risk
+Anita,75000,300000,750,Employed,4.0,Low Risk
+Tom,30000,250000,590,Unemployed,8.33,High Risk
+Deepa,95000,400000,880,Employed,4.21,Low Risk
